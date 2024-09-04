@@ -9,12 +9,12 @@ function App() {
   
   return (
     <>
-      {/* <AtualizadorTitulo></AtualizadorTitulo> */}
-      {/* <TamanhoJanela></TamanhoJanela> */}
-      {/* <CounterLocal></CounterLocal> */}
-      {/* <RelogioDigital></RelogioDigital> */}
-      {/* <AlternarTexto></AlternarTexto> */}
-      {/* <ContadorLimitado></ContadorLimitado> */}
+      {/* <AtualizadorTitulo/> */}
+      {/* <TamanhoJanela/> */}
+      {/* <CounterLocal/> */}
+      {/* <RelogioDigital/> */}
+      {/* <AlternarTexto/> */}
+      {/* <ContadorLimitado/> */}
     </>
   )
 }
